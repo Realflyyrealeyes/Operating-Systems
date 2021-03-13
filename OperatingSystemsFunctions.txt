@@ -1,0 +1,3 @@
+Operating Systems have a lot of functions. 
+The operating system manages the Main memory. 
+An operating system performs different activities for memory management.
